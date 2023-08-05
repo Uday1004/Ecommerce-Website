@@ -1,4 +1,4 @@
-# TreasurEase E-Commerce Website - ReactJS 🛒
+# TreasurEase E-Commerce Website 🛒 - ReactJS  
 
 Welcome to our E-Commerce Website built using ReactJS! This project aims to provide a seamless and user-friendly online shopping experience. Below you'll find all the information you need to get started with the website, from features and technologies used to installation steps and more.
 <p align="center">
