@@ -2,7 +2,7 @@
 
 Welcome to our E-Commerce Website built using ReactJS! This project aims to provide a seamless and user-friendly online shopping experience. Below you'll find all the information you need to get started with the website, from features and technologies used to installation steps and more.
 
-![](src/Images/logoicon.png)
+![hello](src/Images/logoicon.png)
 
 ## Live Demo 👉
 Explore our live demo by clicking [here](https://treasurease-ecommerce.vercel.app/).
