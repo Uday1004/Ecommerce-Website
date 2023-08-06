@@ -2,11 +2,10 @@
 
 Welcome to our E-Commerce Website built using ReactJS! This project aims to provide a seamless and user-friendly online shopping experience. Below you'll find all the information you need to get started with the website, from features and technologies used to installation steps and more.
 
-![hello](src/Images/logoicon.png)
+![Logo](Image/logo1.png)
 
-## Live Demo 👉
-Explore our live demo by clicking [here](https://treasurease-ecommerce.vercel.app/).
-
+## Live Demo 👉 
+ <span>Explore our live demo by clicking [here]().</span>
 <b>Demo user:</b><br/>
 Email: demo@gmail.com<br/>
 Password: 123
@@ -32,22 +31,23 @@ Password: 123
 - Github ⚒️
 
 ## Store Image 🏪
-![E-Commerce Store](https://github.com/Sandy712/Ecommerce_website/blob/master/Image/Screenshot%202023-08-04%20211853.png)
-![E-Commerce Store](https://github.com/Sandy712/Ecommerce_website/blob/master/Image/Screenshot%202023-08-04%20211934.png)
-![E-Commerce Store](https://github.com/Sandy712/Ecommerce_website/blob/master/Image/Screenshot%202023-08-04%20212041.png)
-![E-Commerce Store](https://github.com/Sandy712/Ecommerce_website/blob/master/Image/Screenshot%202023-08-04%20212420.png)
-![E-Commerce Store](https://github.com/Sandy712/Ecommerce_website/blob/master/Image/Screenshot%202023-08-04%20213357.png)
-![E-Commerce Store](https://github.com/Sandy712/Ecommerce_website/blob/master/Image/Screenshot%202023-08-04%20213422.png)
+
+![Ecommerce-store](Image/pic1.png)
+![Ecommerce-store](Image/pic2.png)
+![Ecommerce-store](Image/pic3.png)
+![Ecommerce-store](Image/pic4.png)
+
+
 
 ## Installation and Setup 🚀
 Follow these steps to run the E-Commerce website locally:
 1. Clone the repository:
    ```
-   git clone https://github.com/Sandy712/Ecommerce_website.git
+   git clone  https://github.com/Uday1004/Ecommerce-Website.git
    ```
 2. Navigate to the project directory:
    ```
-   cd Ecommerce_website
+   cd  Ecommerce-Website
    ```
 3. Install the dependencies:
    ```
