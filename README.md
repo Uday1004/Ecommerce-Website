@@ -1,9 +1,8 @@
 # TreasurEase E-Commerce Website - ReactJS 🛒
 
 Welcome to our E-Commerce Website built using ReactJS! This project aims to provide a seamless and user-friendly online shopping experience. Below you'll find all the information you need to get started with the website, from features and technologies used to installation steps and more.
-<p align="center">
-<img width="180" height="81" alt="Treasuease Logo" src="https://github.com/Sandy712/Ecommerce_website/blob/master/Image/Screenshot%202023-08-05%20130004.png"/>
-</p>
+
+![](src/Images/logoicon.png)
 
 ## Live Demo 👉
 Explore our live demo by clicking [here](https://treasurease-ecommerce.vercel.app/).
