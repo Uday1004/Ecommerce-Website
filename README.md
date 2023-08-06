@@ -60,7 +60,7 @@ Follow these steps to run the E-Commerce website locally:
 5. Open your web browser and visit `http://localhost:3000` to access the website.
 
 ## Feedback 💌
-We value your feedback! If you encounter any issues or have suggestions for improvement, please feel free to [create an issue](https://github.com/Sandy712/Ecommerce_website/issues) on our GitHub repository.
+We value your feedback! If you encounter any issues or have suggestions for improvement, please feel free to [create an issue](https://github.com/Uday1004/Ecommerce-Website/issues) on our GitHub repository.
 
 
 ## Contribute 🤝
