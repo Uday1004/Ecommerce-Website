@@ -2,7 +2,7 @@
 
 Welcome to our E-Commerce Website built using ReactJS! This project aims to provide a seamless and user-friendly online shopping experience. Below you'll find all the information you need to get started with the website, from features and technologies used to installation steps and more.
 
-<p>![image](https://github.com/Uday1004/Ecommerce-Website/assets/127083445/058a17a5-5131-4907-8170-321c5786c737)</p>
+![image](https://github.com/Uday1004/Ecommerce-Website/assets/127083445/058a17a5-5131-4907-8170-321c5786c737)
 
 
 ## Live Demo 👉 
