@@ -6,7 +6,7 @@ Welcome to our E-Commerce Website built using ReactJS! This project aims to prov
 
 
 ## Live Demo 👉 
- <span>Explore our live demo by clicking [here]().</span>
+Explore our live demo by clicking [here]().
 <b>Demo user:</b><br/>
 Email: demo@gmail.com<br/>
 Password: 123
