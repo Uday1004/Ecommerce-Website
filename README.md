@@ -2,10 +2,11 @@
 
 Welcome to our E-Commerce Website built using ReactJS! This project aims to provide a seamless and user-friendly online shopping experience. Below you'll find all the information you need to get started with the website, from features and technologies used to installation steps and more.
 
-![Logo](Image/logo1.png)
+![image](https://github.com/Uday1004/Ecommerce-Website/assets/127083445/058a17a5-5131-4907-8170-321c5786c737)
+
 
 ## Live Demo 👉 
- <span>Explore our live demo by clicking [here](https://treasurease.netlify.app/).</span>
+ <span>Explore our live demo by clicking [here]().</span>
 <b>Demo user:</b><br/>
 Email: demo@gmail.com<br/>
 Password: 123
@@ -32,10 +33,11 @@ Password: 123
 
 ## Store Image 🏪
 
-![Ecommerce-store](Image/pic1.png)
-![Ecommerce-store](Image/pic2.png)
-![Ecommerce-store](Image/pic3.png)
-![Ecommerce-store](Image/pic4.png)
+![image](https://github.com/Uday1004/Ecommerce-Website/assets/127083445/a96f9149-ea1e-4bc9-b980-d26693aeec61)
+![image](https://github.com/Uday1004/Ecommerce-Website/assets/127083445/881dfa92-07cb-412f-b2dd-c88f198317d8)
+![image](https://github.com/Uday1004/Ecommerce-Website/assets/127083445/0c713fb1-e53c-42ad-8743-f8410a654649)
+![image](https://github.com/Uday1004/Ecommerce-Website/assets/127083445/2ab172bb-229a-4db3-815b-02779ff805a1)
+
 
 
 
