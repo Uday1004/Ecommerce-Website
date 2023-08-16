@@ -55,9 +55,9 @@ export default function ProductsDetail() {
               </div>
               <span>{selectedProduct?.avgRating} ratings</span>
               <div className="info">
-                <span className="price">${selectedProduct?.price}</span>
+                <span className="price">{selectedProduct?.price} Rs.</span>
               </div>
-              <p className="short-desc">${selectedProduct?.shortDesc}</p>
+              <p className="short-desc">#{selectedProduct?.shortDesc}</p>
                
               
               

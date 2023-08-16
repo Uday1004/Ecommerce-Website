@@ -5,7 +5,7 @@ Welcome to our E-Commerce Website built using ReactJS! This project aims to prov
 ![Logo](Image/logo1.png)
 
 ## Live Demo 👉 
- <span>Explore our live demo by clicking [here]().</span>
+ <span>Explore our live demo by clicking [here](https://treasurease.netlify.app/).</span>
 <b>Demo user:</b><br/>
 Email: demo@gmail.com<br/>
 Password: 123

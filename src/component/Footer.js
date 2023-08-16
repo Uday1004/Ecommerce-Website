@@ -68,22 +68,22 @@ export default function Footer() {
             <MDBCol md="3" lg="2" xl="2" className='mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Social links</h6>
               <p>
-                <a href='https://www.instagram.com/udaysolankii03/' className='text-reset'>
+                <a href='https://www.instagram.com/udaysolankii03/' className='text-reset' target='_blank'>
                  <RiInstagramFill/> Instagram
                 </a>
               </p>
               <p>
-                <a href='!' className='text-reset'>
+                <a href='https://twitter.com/UdaySolanki0312' className='text-reset' target='_blank'>
                   <RiTwitterFill/> Twitter
                 </a>
               </p>
               <p>
-                <a href='!' className='text-reset'>
+                <a href='https://github.com/Uday1004' className='text-reset' target='_blank'>
                   <RiGithubFill/> Github
                 </a>
               </p>
               <p>
-                <a href='!' className='text-reset'>
+                <a href='https://www.linkedin.com/in/uday-solanki-a62967277/' className='text-reset'target='_blank'>
                   <RiLinkedinBoxFill/> Linkdin
                 </a>
               </p>
@@ -126,7 +126,7 @@ export default function Footer() {
 
       <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
         © 2023 Copyright:
-        <a className='text-white' href=''>
+        <a className='text-white' href='https://treasurease.netlify.app/' target='_blank'>
         TreasurEase.com
         </a>
       </div>
